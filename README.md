@@ -16,8 +16,7 @@ This project focuses on classifying the Iris flower species using a neural netwo
 
 ## Introduction
 
-The Iris dataset is a classic dataset in machine learning, consisting of 150 samples of iris flowers with four features each (sepal length, sepal width, petal length, petal width). The task is to classify each sample into one of three species: Iris-setosa, Iris-versicolor, and Iris-virginica.
-
+The Iris dataset is a classic dataset in machine learning, consisting of 150 samples of iris flowers with four features each (sepal length, sepal width, petal length, petal width). The task is to classify each sample into one of two species: Iris-setosa and Iris-versicolor
 ## Installation
 
 To set up the project, follow these steps:
